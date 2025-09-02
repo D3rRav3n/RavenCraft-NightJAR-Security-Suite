@@ -3,8 +3,9 @@
 # RavenCraft:NightJAR Security Suite v2.0 (Python)
 # A professional suite for password generation and management,
 # with advanced security auditing and TOTP functionality.
-#
-# Copyright (c) 2024 Tapiwa Alexander Shumba
+# Copyright (c) 2025 Tapiwa Alexander Shumba aka 'D3rRav3n'
+# Githhub Link: https://github.com/D3rRav3n
+# LinkedIn: https://www.linkedin.com/in/tapiwa-alexander-shumba-a26258272/
 # Licensed under MIT and CC BY-SA 4.0.
 #
 # --- Dependencies ---
