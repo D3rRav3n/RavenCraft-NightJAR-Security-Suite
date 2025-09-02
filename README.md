@@ -58,20 +58,3 @@ Bash
 
 python3 NightJar-SecuritySuite.py
 After executing the command, the NightJAR application window should launch. You are now ready to begin using the security suite!
-
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
-Gemini can make mistakes, so double-check it
-
